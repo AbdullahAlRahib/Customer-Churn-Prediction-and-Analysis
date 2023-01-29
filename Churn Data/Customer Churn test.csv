@@ -1,0 +1,132 @@
+CustomerID,Churn,Gender,NumberOfDeviceRegistered,PreferedOrderCat,SatisfactionScore,MaritalStatus,NumberOfAddress,Complain,CouponUsed,OrderCount,DaySinceLastOrder,CashbackAmount
+55500,1,Male,4,Mobile Phone,4,Single,3,1,2,2,1,150
+55501,0,Female,5,Laptop & Accessory,3,Married,3,1,1,2,8,182
+55502,0,Male,4,Laptop & Accessory,3,Married,3,0,1,2,3,167
+55503,0,Male,4,Fashion,1,Married,4,1,1,2,,222
+55504,0,Male,4,Mobile Phone,5,Single,5,0,1,2,3,146
+55505,0,Male,4,Laptop & Accessory,5,Married,7,1,1,2,5,168
+55506,0,Female,5,Laptop & Accessory,4,Married,2,1,1,2,3,173
+55507,0,Female,5,Laptop & Accessory,1,Married,2,0,1,4,9,184
+55508,0,Male,5,Laptop & Accessory,1,Single,3,0,2,2,9,164
+55509,0,Male,4,Grocery,5,Married,4,0,3,12,17,293
+55510,0,Female,5,Mobile Phone,3,Married,3,1,1,2,1,154
+55511,0,Female,2,Laptop & Accessory,3,Single,2,0,1,2,8,190
+55512,0,Female,4,Grocery,1,Married,5,0,2,5,8,297
+55513,0,Male,2,Laptop & Accessory,5,Married,4,0,2,3,3,175
+55514,1,Male,6,Mobile Phone,5,Married,3,1,1,4,1,148
+55515,1,Male,4,Mobile Phone,1,Single,3,0,1,2,1,151
+55516,0,Male,5,Laptop & Accessory,4,Married,4,0,2,2,4,180
+55517,0,Female,4,Laptop & Accessory,4,Married,7,0,1,2,5,169
+55518,0,Male,4,Fashion,5,Married,11,0,6,,8,258
+55519,0,Female,4,Laptop & Accessory,1,Married,4,1,2,2,5,191
+55520,0,Female,5,Laptop & Accessory,1,Married,5,1,1,2,2,206
+55521,0,Female,2,Mobile Phone,3,Married,10,0,2,3,3,165
+55522,0,Male,2,Mobile Phone,1,Married,2,0,3,8,8,150
+55523,0,Male,4,Laptop & Accessory,3,Single,6,0,1,2,4,179
+55524,0,Male,4,Laptop & Accessory,3,Single,3,0,1,2,10,180
+55525,0,Male,5,Laptop & Accessory,1,Married,3,1,2,2,8,193
+55526,1,Male,2,Mobile Phone,5,Single,3,0,1,2,1,136
+55527,0,Female,6,Laptop & Accessory,3,Married,8,0,1,2,3,182
+55528,0,Male,4,Mobile Phone,4,Married,3,0,1,2,3,147
+55529,0,Male,5,Laptop & Accessory,1,Married,3,1,4,7,12,182
+55530,1,Female,4,Laptop & Accessory,3,Single,5,1,1,3,,224
+55531,0,Male,4,Laptop & Accessory,4,Married,10,0,1,2,8,180
+55532,0,Female,5,Laptop & Accessory,5,Married,6,0,1,2,1,179
+55533,0,Male,4,Laptop & Accessory,5,Married,3,0,1,8,10,177
+55534,0,Female,5,Laptop & Accessory,4,Married,3,1,2,2,8,146
+55535,0,Female,4,Grocery,1,Married,6,1,1,2,1,304
+55536,1,Female,2,Mobile Phone,3,Single,5,1,1,2,4,149
+55537,0,Male,4,Mobile Phone,1,Married,4,0,1,2,4,173
+55538,0,Male,4,Others,1,Married,5,0,5,5,4,317
+55539,0,Male,4,Laptop & Accessory,1,Married,5,1,2,2,1,176
+55540,1,Female,5,Mobile Phone,4,Married,3,0,2,2,1,154
+55541,0,Male,4,Laptop & Accessory,5,Married,2,0,2,2,5,181
+55542,0,Male,4,Mobile Phone,3,Single,3,0,1,2,5,146
+55543,0,Male,4,Mobile Phone,5,Married,3,1,3,3,4,156
+55544,0,Male,2,Mobile Phone,4,Married,3,0,2,2,3,153
+55545,0,Male,4,Fashion,1,Single,3,0,3,3,,224
+55546,0,Male,4,Fashion,3,Married,3,0,1,2,,211
+55547,0,Male,4,Mobile Phone,5,Single,2,0,8,8,7,154
+55548,0,Male,4,Laptop & Accessory,5,Married,2,0,1,2,3,179
+55549,0,Female,4,Laptop & Accessory,1,Married,7,0,1,2,3,192
+55550,0,Male,6,Laptop & Accessory,5,Married,3,0,7,9,8,175
+55551,1,Male,5,Mobile Phone,1,Married,7,0,2,2,4,149
+55552,0,Male,5,Mobile Phone,5,Single,6,0,2,2,1,154
+55553,0,Female,4,Laptop & Accessory,1,Married,3,1,2,2,10,177
+55554,0,Male,4,Laptop & Accessory,1,Single,3,0,2,2,8,166
+55555,0,Male,5,Laptop & Accessory,1,Single,10,0,2,2,,222
+55556,1,Male,4,Laptop & Accessory,1,Married,3,1,1,2,9,181
+55557,1,Male,4,Fashion,5,Single,8,1,1,3,,229
+55558,0,Female,4,Laptop & Accessory,3,Married,5,0,2,3,4,154
+55559,0,Male,4,Laptop & Accessory,3,Married,3,0,1,3,9,185
+55560,0,Male,4,Fashion,3,Married,3,0,2,2,10,200
+55561,0,Male,4,Mobile Phone,4,Married,2,1,1,2,3,155
+55562,0,Male,2,Others,4,Married,6,1,2,2,5,321
+55563,0,Female,6,Mobile Phone,1,Married,3,1,1,2,1,136
+55564,0,Male,4,Grocery,5,Single,2,0,5,,11,258
+55565,0,Male,5,Laptop & Accessory,3,Single,3,0,4,4,8,168
+55566,0,Female,4,Fashion,3,Married,6,0,4,,9,235
+55567,0,Female,4,Laptop & Accessory,5,Single,8,1,1,2,5,169
+55568,0,Male,5,Laptop & Accessory,3,Single,3,0,2,2,3,171
+55569,0,Male,4,Mobile Phone,1,Single,3,0,2,2,5,151
+55570,0,Female,4,Laptop & Accessory,3,Married,3,0,8,10,5,188
+55571,0,Female,4,Laptop & Accessory,4,Married,5,0,2,6,11,182
+55572,0,Female,4,Mobile Phone,4,Married,6,0,1,2,3,147
+55573,0,Male,4,Mobile Phone,4,Married,3,0,2,2,8,162
+55574,0,Male,4,Mobile Phone,3,Married,8,1,1,2,3,165
+55575,0,Male,4,Fashion,3,Single,4,0,10,13,,211
+55576,0,Male,5,Mobile Phone,3,Married,3,0,1,2,1,145
+55577,0,Male,4,Laptop & Accessory,4,Married,2,0,2,6,9,169
+55578,0,Male,4,Mobile Phone,3,Married,2,0,1,2,3,156
+55579,0,Male,5,Laptop & Accessory,3,Married,4,0,3,8,8,178
+55580,0,Male,4,Laptop & Accessory,5,Married,8,1,2,2,3,179
+55581,0,Male,4,Mobile Phone,1,Married,5,0,1,2,1,153
+55582,0,Female,4,Fashion,4,Married,2,0,1,,13,245
+55583,0,Male,4,Mobile Phone,3,Married,9,1,3,3,3,152
+55584,0,Male,4,Mobile Phone,3,Single,2,0,2,2,3,159
+55585,0,Male,4,Laptop & Accessory,3,Single,3,0,1,2,9,176
+55586,0,Female,4,Laptop & Accessory,1,Married,2,1,7,9,2,174
+55587,0,Female,5,Mobile Phone,4,Single,3,0,1,5,2,153
+55588,0,Male,4,Mobile Phone,1,Married,10,0,2,2,1,149
+55589,0,Male,5,Mobile Phone,4,Married,2,0,3,3,3,148
+55590,0,Male,4,Laptop & Accessory,1,Single,9,0,1,2,8,166
+55591,0,Female,6,Fashion,3,Married,5,0,1,,12,257
+55592,0,Female,4,Fashion,1,Married,3,0,1,6,,229
+55593,0,Female,2,Fashion,1,Married,3,1,,7,9,262
+55594,0,Female,4,Laptop & Accessory,3,Married,2,1,1,2,5,174
+55595,0,Male,4,Mobile Phone,1,Married,4,0,2,2,1,160
+55596,0,Male,4,Mobile Phone,1,Single,8,1,2,2,3,149
+55597,0,Male,4,Mobile Phone,5,Single,3,1,2,2,3,149
+55598,0,Male,4,Others,1,Single,4,0,2,2,4,319
+55599,1,Male,4,Mobile Phone,5,Married,3,0,2,2,1,143
+55600,0,Female,5,Fashion,1,Married,2,0,1,4,5,201
+55601,0,Female,4,Laptop & Accessory,4,Married,9,0,1,2,3,176
+55602,0,Male,4,Laptop & Accessory,3,Married,3,0,1,2,10,188
+55603,1,Male,4,Mobile Phone,1,Married,11,1,3,3,3,173
+55604,0,Male,4,Others,3,Married,7,0,1,5,15,314
+55605,1,Male,4,Mobile Phone,3,Married,10,0,7,10,9,148
+55606,0,Female,5,Grocery,4,Married,2,0,2,2,11,261
+55607,0,Female,5,Laptop & Accessory,3,Married,3,0,2,2,8,192
+55608,0,Male,6,Laptop & Accessory,1,Married,3,0,6,12,12,179
+55609,0,Male,5,Laptop & Accessory,4,Married,4,0,2,2,,214
+55610,0,Male,4,Mobile Phone,5,Single,3,0,1,2,3,149
+55611,0,Female,4,Fashion,1,Single,3,1,2,2,,213
+55612,0,Female,4,Laptop & Accessory,1,Married,3,0,1,2,10,178
+55613,1,Male,4,Laptop & Accessory,3,Married,9,0,2,2,2,192
+55614,0,Female,5,Laptop & Accessory,1,Married,6,0,2,2,1,192
+55615,0,Female,4,Laptop & Accessory,3,Single,10,0,1,2,2,174
+55616,0,Male,5,Mobile Phone,3,Single,4,0,1,3,3,153
+55617,0,Male,4,Laptop & Accessory,3,Married,3,1,1,2,3,182
+55618,0,Female,4,Mobile Phone,3,Married,4,0,1,2,3,145
+55619,0,Female,6,Mobile Phone,1,Married,3,0,2,2,2,155
+55620,0,Male,5,Laptop & Accessory,4,Married,6,1,1,2,4,165
+55621,0,Female,5,Mobile Phone,5,Single,3,0,1,2,5,163
+55622,1,Male,5,Fashion,5,Married,6,1,3,,1,234
+55623,0,Female,5,Grocery,1,Married,2,0,4,,7,245
+55624,0,Male,4,Laptop & Accessory,5,Single,2,0,2,2,,224
+55625,0,Female,5,Mobile Phone,3,Single,2,0,2,2,1,155
+55626,0,Male,2,Laptop & Accessory,1,Married,6,0,1,2,4,151
+55627,0,Male,5,Fashion,5,Married,6,0,1,2,,225
+55628,0,Male,2,Laptop & Accessory,4,Married,3,1,1,2,4,186
+55629,0,Male,5,Laptop & Accessory,4,Married,4,0,2,2,9,179
+55630,0,Male,2,Laptop & Accessory,3,Married,4,0,2,2,3,169
